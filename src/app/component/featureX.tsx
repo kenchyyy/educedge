@@ -12,4 +12,5 @@ const printFeature = (feature: feature) => {
   console.log(`Handsome Level: ${feature.handsome}`);
   console.log(`Age: ${feature.age}`);
   console.log(`Is Active: ${feature.isActive}`);
-}
+};
+
